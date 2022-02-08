@@ -1,0 +1,21 @@
+* {
+    font-family: "Garamond", "Georgia", serif;
+}
+h1 {
+    text-align: center;
+    font-family: "Helvetica", sans-serif;
+    color: #336666;
+
+}
+h2 {
+    font-family: "Helvetica", sans-serif;
+    color: #660033
+}
+.rhead {
+    background-color: #CCCC66;
+}
+.toc {
+    font-size: 20px;
+    
+}
+
